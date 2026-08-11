@@ -1,10 +1,16 @@
 # Revisão Sistemática 
 
-### 
+Uma revisão sistemática, embora não seja uma técnica estatística em si, é o alicerce metodológico rigoroso que frequentemente precede e fundamenta uma meta-análise, e sua essência reside na aplicação de métodos científicos explícitos e sistemáticos para minimizar vieses e erros na compilação da evidência disponível. 
+
+Diferentemente de uma revisão narrativa tradicional, onde a seleção de artigos pode ser subjetiva, a revisão sistemática parte de uma pergunta de pesquisa bem definida (geralmente estruturada no formato PICO - População, Intervenção, Comparação e Desfecho) e segue um protocolo pré-especificado e reproduzível que detalha todas as etapas do processo. 
+
+Isso inclui uma busca exaustiva e transparente em múltiplas bases de dados científicas, com critérios de inclusão e exclusão claramente definidos, seguida por uma avaliação crítica e padronizada da qualidade metodológica e do risco de viés de cada estudo selecionado. 
+
+Por fim, a revisão sistemática sintetiza os achados de forma qualitativa (e, quando viável, quantitativa por meio da meta-análise), apresentando de forma estruturada as características dos estudos, seus resultados e a confiança geral no corpo de evidências, servindo como um mapa confiável e abrangente do conhecimento acumulado sobre um tópico para orientar decisões clínicas, políticas públicas e futuras pesquisas.
 
 
 
-
+# Meta-Análise   
 
 A meta-análise, do ponto de vista estatístico, é uma técnica quantitativa que vai além de uma simples revisão narrativa da literatura, funcionando como uma ferramenta formal para combinar e sintetizar os resultados de múltiplos estudos independentes que abordam uma mesma questão de pesquisa. 
 
