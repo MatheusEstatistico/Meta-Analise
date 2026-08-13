@@ -28,16 +28,6 @@ Além de fornecer a estimativa combinada e seus intervalos de confiança, a aná
 ### Banco de dados 
 
 
-# Resultados
-
-### 
-
-
-# Discussão 
-
-### 
-
-
-# Considerações finais
-
-### 
+# Análises feitas
+- []();
+- 
